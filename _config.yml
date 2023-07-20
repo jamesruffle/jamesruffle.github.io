@@ -83,12 +83,12 @@ author:
   name             : "Dr James K Ruffle"
   avatar           : "profile.jpeg"
   bio              : "MRC Clinical Research Training Fellow | Pan-London Neuroradiology Registrar"
-  location         : "High-Dimensional Neurology"
-  employer         : "University College London"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=james+ruffle"
+  location         : "High-Dimensional Neurology, University College London"
+  employer         : #"University College London"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=james+ruffle"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=CVvowJAAAAAJ"
   email            : "j.ruffle@ucl.ac.uk"
-  researchgate     : "https://www.researchgate.net/profile/James-Ruffle-2"
+  researchgate     : #"https://www.researchgate.net/profile/James-Ruffle-2"
   uri              :
   bitbucket        :
   codepen          :
